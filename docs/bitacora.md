@@ -19,6 +19,6 @@ se uso una protoboard, jumpers, luz led, resistencias, capacitores y caimanes
 # Realizacion
 
 Se conectan jumpers al protoboard para puentear y conectarse a los caimanes para tener corriente y los otros jumpers se conectan al led, las resistencias y el capacitor para que se pueda dar luz y que haya pausas lo suficientemente largas para que se pueda ver que parpadea a simple vista
-<img src="recursos/imgs/meca2809.jpeg">
+<img src="../recursos/imgs/meca2809.jpeg">
 <video controls width="600">
-<source src="recursos/imgs/meca2809vid.mp4">
+<source src="../recursos/imgs/meca2809vid.mp4">

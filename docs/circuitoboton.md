@@ -19,7 +19,7 @@ se uso una protoboard, jumpers, luz led, resistencias, boton y arduino
 # Realizacion
 se conectaba el boton y los jumpers y el arduino con el cable usb y luego con el codigo se escribe una cadena constante de codigo mientras que el boton este encendido, al dejar de presionarlo esta terminara
 
-<img src="recursos/imgs/meca409.jpeg">
+<img src="../recursos/imgs/meca409.jpeg">
 Codigo:
 
 #include "bluetoohSerial.h"
@@ -49,4 +49,4 @@ void loop ()
     }
 
 }
-<img src="recursos/imgs/meca409_2.jpeg">
+<img src="../recursos/imgs/meca409_2.jpeg">

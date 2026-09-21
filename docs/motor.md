@@ -20,7 +20,7 @@ se uso arduino
 Se conecta el arduino a la compuerta y de la compuerta al motor, de ahi el se realiza el codigo para que pueda girar cada cierto tiempo.
 
 Despues se conecta un segundo motor y un servo motor, se hacen mas codigo para que ambos motores simples cambien de direccion cada cierto tiempo mientras el servo motor gira al mismo tiempo
-<img src="recursos/imgs/meca1109.jpeg">
+<img src="../recursos/imgs/meca1109.jpeg">
 Codigo:
 void setup ()
 {
@@ -105,6 +105,6 @@ void loop ()
 }
 
 <video controls width="600">
-<source src="recursos/imgs/meca1109vid.mp4">
+<source src="../recursos/imgs/meca1109vid.mp4">
 
 
